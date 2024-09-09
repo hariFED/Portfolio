@@ -19,7 +19,7 @@ function App() {
         <div className='text-white gap-2 container mx-auto text-xl font-bold lg:h-screen flex md:flex-row flex-col items-center font-rubik'>
 
           <div className='w-1/2 flex flex-col gap-5 mr-5'>
-            <p className='text-xl font-bold tracking-wider'>Hello</p>
+            <p className='text-3xl font-rubik font-bold tracking-wider'>Hello</p>
             <p className='text-8xl font-semibold font-honk relative'>I&apos;m Hari <span className='font-rubik text-xl'>you can call me hari<span className='text-4xl text-red-400 font-bold'>d</span>luffy</span> <span className='absolute bottom-4 ml-4 hover:scale-[10] hover:z-30 duration-1000'> <img src={Luffy} alt="" className='animate-spin  ' width={60} /> </span> </p>
             <p className='text-3xl flex  '>Chasing the Full stack dream with the
               <span className=' ml-2 flex gap-2  text-center items-center'>
@@ -30,7 +30,7 @@ function App() {
                 <FaNodeJs className=' text-green-600 animate-bounce-4' />
               </span>
             </p>
-            <p className='text-3xl'>And while banks are busy charging me to keep my money cozy, Web3 is calling—time to let my money stretch its legs!</p>
+            <p className='text-3xl leading-10'>And while banks are busy charging me to keep my money cozy, Web3 is calling—time to let my money stretch its legs!</p>
             <div className="text-sm font-normal mt-20">
               If you ever get bored or feel like unraveling wild conspiracy theories or geeking out over tech, slide into my DMs on any of my socials—let’s stir the pot!
             </div>
