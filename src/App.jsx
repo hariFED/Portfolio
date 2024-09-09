@@ -1,11 +1,11 @@
 import { DiMongodb } from "react-icons/di";
 import { SiExpress, SiReact } from "react-icons/si";
-import { FaGit, FaInstagram, FaNodeJs, FaWhatsapp } from "react-icons/fa";
+import {  FaInstagram, FaNodeJs, FaWhatsapp } from "react-icons/fa";
 
 import Luffy from './assets/luffy.png'
 
 import Project from './components/Project';
-import { FaX, FaXTwitter } from "react-icons/fa6";
+import {  FaXTwitter } from "react-icons/fa6";
 
 
 

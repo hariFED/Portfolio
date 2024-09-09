@@ -1,5 +1,4 @@
-import React from 'react'
-import { FaArrowAltCircleDown, FaGithub, FaNodeJs } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { GoLinkExternal } from 'react-icons/go';
 const ProjectData = [
     {
